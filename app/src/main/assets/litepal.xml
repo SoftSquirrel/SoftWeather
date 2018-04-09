@@ -1,0 +1,13 @@
+<litepal>
+
+    <dbname value="soft_weather" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.extreme.softweather.db.Province" />
+        <mapping class="com.extreme.softweather.db.City" />
+        <mapping class="com.extreme.softweather.db.County" />
+    </list>
+
+</litepal>
